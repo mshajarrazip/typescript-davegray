@@ -19,3 +19,4 @@ tsc [ --noEmitOnError ] -w
 - Static Typing - types checked at compile time (TS)
 - Dynamic Typing - types checked at runtime (JS)
 - implicit vs explicit
+- type casting / type assertions

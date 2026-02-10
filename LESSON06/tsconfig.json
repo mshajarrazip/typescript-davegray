@@ -2,7 +2,7 @@
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-    "rootDir": "LESSON02-LESSON05/src",
+    "rootDir": "./src",
     "outDir": "./build/js",
 
     // Environment Settings
@@ -44,6 +44,6 @@
     "noEmitOnError": true
   },
   "include": [
-    "LESSON02-LESSON05/src"
+    "./src"
   ]
 }
